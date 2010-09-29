@@ -1,0 +1,7 @@
+# User-specific files 
+*.user
+*.suo
+_ReSharper.*/**
+# Build artifacts
+src/**/obj/**
+src/**/bin/**
