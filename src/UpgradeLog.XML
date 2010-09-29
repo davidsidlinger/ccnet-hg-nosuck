@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ccnet-hg-nosuck">
+</Property><Property Name="Solution File" Value="C:\David-Source\ccnet-hg-nosuck\src\ccnet-hg-nosuck.sln">
+</Property><Property Name="Date" Value="Sunday, May 23, 2010">
+</Property><Property Name="Time" Value="9:38 AM">
+</Property></Properties><Event ErrorLevel="0" Project="PlugIn" Source="PlugIn\PlugIn.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PlugIn" Source="PlugIn\PlugIn.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PlugIn.Fixtures" Source="PlugIn.Fixtures\PlugIn.Fixtures.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PlugIn.Fixtures" Source="PlugIn.Fixtures\PlugIn.Fixtures.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ccnet-hg-nosuck.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ccnet-hg-nosuck.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PlugIn" Source="PlugIn\PlugIn.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PlugIn" Source="PlugIn\PlugIn.csproj" Description="The following Code Analysis rules were removed from the project: Microsoft.Rules.Managed.CA1805. They are obsolete in the current version of Visual Studio.">
+</Event><Event ErrorLevel="0" Project="PlugIn" Source="PlugIn\PlugIn.csproj" Description="Created rule set file &quot;C:\David-Source\ccnet-hg-nosuck\src\PlugIn\Migrated rules for PlugIn.ruleset&quot; for the &quot;Debug (Any CPU)&quot; configuration.">
+</Event><Event ErrorLevel="0" Project="PlugIn.Fixtures" Source="PlugIn.Fixtures\PlugIn.Fixtures.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

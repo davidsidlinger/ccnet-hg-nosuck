@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<log>
+  <logentry revision="2" node="d38b4a5270b302a68bc5578697434e889586423d">
+    <tag>tip</tag>
+    <author email="123@test.com">123</author>
+    <date>
+      2010-04-09T09:59:34-05:00
+    </date>
+    <msg xml:space="preserve">Empty projects and references in place.</msg>
+    <paths>
+      <path action="Z">somethingcrazy</path>
+      <path action="A">
+        Every Thing/Has Spaces.file
+      </path>
+      <path action="A">
+        File With Spaces.AndExtension
+      </path>
+      <path action="A">
+        File With Spaces And No Extension
+      </path>
+      <path action="M">.hgignore</path>
+    </paths>
+  </logentry>
+  <logentry revision="1" node="0d607b5d0ad7862e21f86432e7d43f991aa8341a">
+    <author email="456@test.com">456</author>
+    <date>
+      2010-04-09T09:50:29-05:00
+    </date>
+    <msg xml:space="preserve">Libraries and blank solution</msg>
+    <paths>
+      <path action="A">
+        one/two/three/some.file
+      </path>
+      <path action="R">.dummy</path>
+      <path action="A">lib/one.two.three</path>
+      <path action="M">.hgignore</path>
+    </paths>
+  </logentry>
+  <logentry revision="0" node="93eab8fd8830819ac27190199d2f79dc4c30af3c">
+    <author email="789@test.com">789</author>
+    <date>
+      2010-04-09T09:50:08-05:00
+    </date>
+    <msg xml:space="preserve">Ignore file</msg>
+    <paths>
+      <path action="A">.dummy</path>
+      <path action="A">.hgignore</path>
+    </paths>
+  </logentry>
+</log>

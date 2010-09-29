@@ -1,0 +1,7 @@
+# User-specific files 
+glob:*.user
+glob:*.suo
+glob:_ReSharper.*/**
+# Build artifacts
+glob:src/**/obj/**
+glob:src/**/bin/**
